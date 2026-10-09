@@ -4,7 +4,23 @@ Welcome to my portfolio of Business Analysis, Data Analytics, and Business Intel
 
 This repository showcases practical projects involving business problem-solving, KPI development, hypothesis testing, data visualization, and evidence-based decision-making.
 
-## Featured Project
+
+## Featured Projects
+
+### Learning Completion & Engagement Analysis
+
+A Business Analysis and Power BI project examining
+learner completion rates, engagement patterns,
+management hypotheses, and data quality.
+
+**Key Deliverables:**
+- Investigation Overview Dashboard
+- Hypothesis Testing Dashboard
+- Data Quality & Limitations Dashboard
+- Final Business Analysis Report
+
+[View Project](Learning-Completion-Analysis/README.md)
+
 
 ### Learning Completion & Engagement Analysis
 
