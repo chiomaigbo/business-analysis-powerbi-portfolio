@@ -54,3 +54,5 @@ The analysis demonstrates how evidence-based reporting can help organizations ev
 ### Dashboard 3: Data Quality & Limitations
 ![Data Quality and Limitations](03-data-quality-limitations.png)
 
+## Project Report
+[View Learning Completion & Engagement Analysis Report](Learning-Completion-and-Engagement-Analysis-Report.pdf)
