@@ -42,3 +42,15 @@ Power BI | Power Query | DAX | Data Cleaning | KPI Development | Business Analys
 ## Business Value
 
 The analysis demonstrates how evidence-based reporting can help organizations evaluate assumptions, improve data quality, identify performance gaps, and make informed business decisions.
+
+## Power BI Dashboard Visualizations
+
+### Dashboard 1: Investigation Overview
+![Investigation Overview](01-overview.png)
+
+### Dashboard 2: Hypothesis Testing
+![Hypothesis Testing](02-hypothesis-testing.png)
+
+### Dashboard 3: Data Quality & Limitations
+![Data Quality and Limitations](03-data-quality-limitations.png)
+
